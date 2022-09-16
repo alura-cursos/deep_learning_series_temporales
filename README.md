@@ -15,11 +15,11 @@ Este curso contiene 5 aulas:
   * Clase 08: Cambio de perspectiva
   * Clase 09: Poniendo aprueba el modelo
   * Clase 10: Ventanas de tiempo
-* **Aula 4: Redes Recurrentes**
+* Aula 4: Redes Recurrentes
   * Clase 11: Un Nuevo Problema
   * Clase 12: Redes Recurrentes
   * Clase 13: Implementando una red neuronal recurrente
-* Aula 5: LSTM
+* **Aula 5: LSTM**
   * Clase 14: LSTM (Long Short-Term Memory)
   * Clase 15: Implementando una red LSTM
   * Clase 16: Implementando una red GRU
