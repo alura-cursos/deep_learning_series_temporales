@@ -3,7 +3,7 @@
 Bienvenido al curso de Deep learning: regresión y series temporales con keras.
 Este curso contiene 5 aulas:
 * Aula 1: Procesando la información
-  * **Clase 01: Introducción**
+  * Clase 01: Introducción
   * Clase 02: Entendiendo la base de datos
   * Clase 03: Procesando la información
 * Aula 2: Regresión
@@ -19,7 +19,7 @@ Este curso contiene 5 aulas:
   * Clase 11: Un Nuevo Problema
   * Clase 12: Redes Recurrentes
   * Clase 13: Implementando una red neuronal recurrente
-* Aula 5: LSTM
+* **Aula 5: LSTM**
   * Clase 14: LSTM (Long Short-Term Memory)
   * Clase 15: Implementando una red LSTM
   * Clase 16: Implementando una red GRU
