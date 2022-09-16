@@ -19,7 +19,7 @@ Este curso contiene 5 aulas:
   * Clase 11: Un Nuevo Problema
   * Clase 12: Redes Recurrentes
   * Clase 13: Implementando una red neuronal recurrente
-* **Aula 5: LSTM**
+* Aula 5: LSTM
   * Clase 14: LSTM (Long Short-Term Memory)
   * Clase 15: Implementando una red LSTM
   * Clase 16: Implementando una red GRU
