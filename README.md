@@ -3,7 +3,7 @@
 Bienvenido al curso de Deep learning: regresión y series temporales con keras.
 Este curso contiene 5 aulas:
 * Aula 1: Procesando la información
-  * **Clase 01: Introducción**
+  * Clase 01: Introducción
   * Clase 02: Entendiendo la base de datos
   * Clase 03: Procesando la información
 * Aula 2: Regresión
@@ -15,7 +15,7 @@ Este curso contiene 5 aulas:
   * Clase 08: Cambio de perspectiva
   * Clase 09: Poniendo aprueba el modelo
   * Clase 10: Ventanas de tiempo
-* Aula 4: Redes Recurrentes
+* **Aula 4: Redes Recurrentes**
   * Clase 11: Un Nuevo Problema
   * Clase 12: Redes Recurrentes
   * Clase 13: Implementando una red neuronal recurrente
